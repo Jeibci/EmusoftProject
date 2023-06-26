@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "newprojects",
+		"editor.fontFamily": "Media Sans, 'Courier New', monospace"
+	}
+}
